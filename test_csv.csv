@@ -1,0 +1,241 @@
+Event,Year,Month,Day,Company Name,Ticker,Market,Industry
+Fed Rate Hike,2015,12,16,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2015,12,16,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2015,12,16,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2015,12,16,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2015,12,16,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2015,12,16,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2015,12,16,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2015,12,16,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2015,12,16,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2015,12,16,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2015,12,16,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2015,12,16,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2015,12,16,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2015,12,16,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2015,12,16,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2015,12,16,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2015,12,16,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2015,12,16,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2015,12,16,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2015,12,16,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2015,12,16,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2015,12,16,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2015,12,16,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2015,12,16,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2015,12,16,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2016,12,14,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2016,12,14,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2016,12,14,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2016,12,14,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2016,12,14,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2016,12,14,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2016,12,14,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2016,12,14,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2016,12,14,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2016,12,14,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2016,12,14,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2016,12,14,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2016,12,14,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2016,12,14,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2016,12,14,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2016,12,14,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2016,12,14,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2016,12,14,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2016,12,14,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2016,12,14,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2016,12,14,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2016,12,14,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2016,12,14,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2016,12,14,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2016,12,14,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2017,3,15,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2017,3,15,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,3,15,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,3,15,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2017,3,15,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2017,3,15,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2017,3,15,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2017,3,15,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2017,3,15,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2017,3,15,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,3,15,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,3,15,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,3,15,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2017,3,15,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2017,3,15,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2017,3,15,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2017,3,15,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2017,3,15,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,3,15,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2017,3,15,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,3,15,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2017,3,15,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2017,3,15,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2017,3,15,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2017,3,15,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2017,6,14,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2017,6,14,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,6,14,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,6,14,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2017,6,14,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2017,6,14,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2017,6,14,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2017,6,14,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2017,6,14,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2017,6,14,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,6,14,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,6,14,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,6,14,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2017,6,14,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2017,6,14,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2017,6,14,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2017,6,14,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2017,6,14,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,6,14,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2017,6,14,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,6,14,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2017,6,14,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2017,6,14,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2017,6,14,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2017,6,14,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2017,12,13,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2017,12,13,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,12,13,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2017,12,13,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2017,12,13,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2017,12,13,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2017,12,13,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2017,12,13,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2017,12,13,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2017,12,13,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,12,13,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,12,13,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2017,12,13,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2017,12,13,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2017,12,13,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2017,12,13,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2017,12,13,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2017,12,13,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,12,13,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2017,12,13,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2017,12,13,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2017,12,13,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2017,12,13,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2017,12,13,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2017,12,13,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2018,3,21,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2018,3,21,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,3,21,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,3,21,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2018,3,21,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2018,3,21,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2018,3,21,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2018,3,21,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2018,3,21,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2018,3,21,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,3,21,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,3,21,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,3,21,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2018,3,21,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2018,3,21,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2018,3,21,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2018,3,21,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2018,3,21,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,3,21,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2018,3,21,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,3,21,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2018,3,21,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2018,3,21,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2018,3,21,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2018,3,21,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2018,6,13,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2018,6,13,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,6,13,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,6,13,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2018,6,13,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2018,6,13,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2018,6,13,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2018,6,13,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2018,6,13,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2018,6,13,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,6,13,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,6,13,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,6,13,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2018,6,13,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2018,6,13,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2018,6,13,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2018,6,13,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2018,6,13,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,6,13,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2018,6,13,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,6,13,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2018,6,13,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2018,6,13,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2018,6,13,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2018,6,13,Verizon Communications Inc.,VZ,^DJI,Telecom
+Fed Rate Hike,2018,9,26,DowDuPont Inc.,DWDP,^DJI,Basic Materials (Chemicals)
+Fed Rate Hike,2018,9,26,3M Co.,MMM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,9,26,International Business Machines Corp.,IBM,^DJI,Business/Consumer Services
+Fed Rate Hike,2018,9,26,Exxon Mobil Corp.,XOM,^DJI,Energy
+Fed Rate Hike,2018,9,26,Chevron Corp.,CVX,^DJI,Energy
+Fed Rate Hike,2018,9,26,Procter & Gamble Co.,PG,^DJI,Consumer Goods
+Fed Rate Hike,2018,9,26,Nike Inc. Cl B,NKE,^DJI,Consumer Goods
+Fed Rate Hike,2018,9,26,Coca-Cola Co.,KO,^DJI,Consumer Goods
+Fed Rate Hike,2018,9,26,American Express Co.,AXP,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,VISA Inc. Cl A,V,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,Goldman Sachs Group Inc.,GS,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,UnitedHealth Group Inc.,UNH,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,JPMorgan Chase & Co.,JPM,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,Travelers Cos. Inc.,TRV,^DJI,Financial Services
+Fed Rate Hike,2018,9,26,Johnson & Johnson,JNJ,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,9,26,Merck & Co. Inc.,MRK,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,9,26,Pfizer Inc.,PFE,^DJI,Health Care/Life Sciences
+Fed Rate Hike,2018,9,26,United Technologies Corp.,UTX,^DJI,Industrial Goods
+Fed Rate Hike,2018,9,26,Caterpillar Inc.,CAT,^DJI,Industrial Goods
+Fed Rate Hike,2018,9,26,Boeing Co.,BA,^DJI,Industrial Goods
+Fed Rate Hike,2018,9,26,McDonald's Corp.,MCD,^DJI,Leisure/Arts/Hospitality
+Fed Rate Hike,2018,9,26,Walt Disney Co.,DIS,^DJI,Media/Entertainment
+Fed Rate Hike,2018,9,26,Home Depot Inc.,HD,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,9,26,Walgreens Boots Alliance Inc.,WBA,^IXIC,Retail/Wholesale
+Fed Rate Hike,2018,9,26,Walmart Inc.,WMT,^DJI,Retail/Wholesale
+Fed Rate Hike,2018,9,26,Intel Corp.,INTC,^DJI,Technology
+Fed Rate Hike,2018,9,26,Microsoft Corp.,MSFT,^IXIC,Technology
+Fed Rate Hike,2018,9,26,Cisco Systems Inc.,CSCO,^IXIC,Technology
+Fed Rate Hike,2018,9,26,Apple Inc.,AAPL,^IXIC,Technology
+Fed Rate Hike,2018,9,26,Verizon Communications Inc.,VZ,^DJI,Telecom
