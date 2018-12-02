@@ -8,7 +8,7 @@ We mainly used object-oriented programming (OOP) to contain data and code and le
 
 ## Group Name and Section
 
- - Group name: ROSEM
+ - Group name: ROESM
  - Section: Three of four members are in section 1, who are Yidan Chen (yc3535), Yunzhu Liu (yl4005)  and Jiachen Xu (jx2357), and one of us is in section 2, who is Andy Sheng (ds3622).
 
 
