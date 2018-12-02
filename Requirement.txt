@@ -1,0 +1,13 @@
+﻿import pandas as pd
+import datetime
+from datetime import timedelta
+import pandas_datareader.data as web
+import fix_yahoo_finance as yf
+import matplotlib.pyplot as plt
+import numpy as np
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
+
+
+Notes: You must use our formatted csv file as an input to run our code.
