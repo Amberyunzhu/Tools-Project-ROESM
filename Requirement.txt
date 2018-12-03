@@ -10,4 +10,4 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 
-Notes: You must use our formatted csv file as an input to run our code.
+Notes: You must use the provided csv files as inputs to run the code.
