@@ -1,22 +1,24 @@
 # Tools-Project-ROESM
 ## What is it
 
-This project, based on the FFJR(1969), is to demonstrate stocks’ sensitivity to Fed interest rate hike and the trade war events in python by measuring the cumulative abnormal return of target stocks in a given period. It aims to enable users to have a better understanding of the stock market turbulence and to become “calmer” investors.  
+This project aims at analyzing the stock market’s sensitivity to macroeconomic events such as Federal Reserve interest rate hikes and U.S./China trade disputes. The python script uses object-oriented programming (OOP) to process event and stock data in two csv files, and calculates the cumulative abnormal returns for the selected stocks in given periods. The theoretical background is explained in Prof. Binder’s paper from University of Chicago: https://link.springer.com/article/10.1023/A:1008295500105
 
-We mainly used object-oriented programming (OOP) to contain data and code and leveraged the data analytical capability of several python packages, e.g. pandas, to analyze financial data such as return rates from Yahoo Finance. The python script will ask for several user inputs such as industries of interest, stock tickers, time period, events, etc. The script will then analyze the stock performance within the time period by regression of our model and highlight the impact of events using visualization packages, e.g. matplotlib. We in particular would like to investigate and demonstrate what kind of impact the market turbulence caused by those events will have on stocks by industries.
+The script then provides data visualization to demonstrate the events’ impact on individual stock level, industry level, and country level.  
+
 
 
 ## Group Name and Section
 
  - Group name: ROESM
- - Section: Three of four members are in section 1, who are Yidan Chen (yc3535), Yunzhu Liu (yl4005)  and Jiachen Xu (jx2357), and one of us is in section 2, who is Andy Sheng (ds3622).
+ - Section 1 students: Yidan Chen (yc3535), Yunzhu Liu (yl4005), Jiachen Xu (jx2357)
+ - Section 2 student: Andy Sheng (ds3622)
 
 
 ## Where to get it
 
-The source code is currently hosted on GitHub at: https://github.com/Amberyunzhu/Tools-Project-ROESM
+The source code and datasets are currently hosted on GitHub at: https://github.com/Amberyunzhu/Tools-Project-ROESM
 
-## Dependencies
+## Dependencies (Required packages)
 
  - Numpy
  - Pandas
@@ -36,9 +38,8 @@ In most cases, we recommend you to install two packages below before running the
 
 Other python packages have been listed in requirements.txt.
 
-
 ## Run Instructions
 
-Following the instructions in the script, you need to input the ***absolute file path*** of the csv files you downloaded, and then ***RUN IT***!
+First, please download the two csv files and record their absolute parts. You will need to input the ***absolute file path*** at the beginning of the Jupyter Notebook. Then you can continue to run the source code by simply hitting "SHIFT + ENTER".
 
-***Notes***: If you want to try another data of your interested topic, please follow the format of our csv files e.g. ***Fed events v3.csv***.
+
