@@ -40,6 +40,6 @@ Other python packages have been listed in requirements.txt.
 
 ## Run Instructions
 
-First, please download the two csv files and record their absolute parts. You will need to input the ***absolute file path*** at the beginning of the Jupyter Notebook. Then you can continue to run the source code by simply hitting "SHIFT + ENTER".
+First, please download the two csv files and record their absolute paths. You will need to input the ***absolute file paths*** at the beginning of the Jupyter Notebook. Then you can continue to run the source code by simply hitting "SHIFT + ENTER".
 
 
